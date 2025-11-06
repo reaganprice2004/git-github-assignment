@@ -4,3 +4,7 @@ Repository (repo) = A folder that Git tracks.
 Commit = saved snapshot of changes.
 Branch = A separate line of development to work on features safely.
 Push = Send your commits to Github.
+
+Branching in Git allows you to create separate line of development.
+Each branch can have its own changes without affecting the main branch
+You can switch between using 'git checkout'.
