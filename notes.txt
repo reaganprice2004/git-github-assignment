@@ -1,1 +1,6 @@
 my notes go here
+Git = Version control system. It tracks changes to files over time.
+Repository (repo) = A folder that Git tracks.
+Commit = saved snapshot of changes.
+Branch = A separate line of development to work on features safely.
+Push = Send your commits to Github.
